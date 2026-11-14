@@ -2,6 +2,7 @@
     "name": "cicd-demo",
     "version": "1.0.0",
     "scripts": {
-        "test": "node --test"
+        "test": "node --test",
+        "start": "node index.js"
     }
 }
